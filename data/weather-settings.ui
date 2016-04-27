@@ -1165,7 +1165,7 @@
                   <object class="GtkLabel" id="extension-label">
                     <property name="visible">True</property>
                     <property name="can_focus">False</property>
-                    <property name="label">&lt;b&gt;OPenweather&lt;/b&gt;</property>
+                    <property name="label">&lt;b&gt;Openweather&lt;/b&gt;</property>
                     <property name="use_markup">True</property>
                   </object>
                   <packing>
